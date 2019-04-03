@@ -1,0 +1,11 @@
+1. changement des keys afin de pouvoir bien gerer les changements du lib et de jeu
+              -> F1 = go to next libDyn
+              -> F2 = go to previous
+              -> F3 = go to next game
+              -> F4 = go to prev game
+
+2. gestion des event pour que le menu gere bien les changement du lib
+
+3. organisation du games list et de libs list for the changement
+
+4. maybe write a manual for the keymap
